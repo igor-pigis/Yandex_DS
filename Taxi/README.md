@@ -16,7 +16,7 @@
 - sklearn.metrics.**make_scorer**
 - sklearn.linear_model.**LinearRegression**
 - sklearn.ensemble.**RandomForestRegressor**
-- catboost.**CatBoostRegressor**
+- Boost
 - **matplotlib**
 
 ## 
